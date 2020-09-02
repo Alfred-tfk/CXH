@@ -1,0 +1,14 @@
+C:\Users\86185\Desktop\CXH\CXH.DAl\bin\Debug\CXH.DAl.dll
+C:\Users\86185\Desktop\CXH\CXH.DAl\bin\Debug\CXH.DAl.pdb
+C:\Users\86185\Desktop\CXH\CXH.DAl\bin\Debug\CXH.Model.dll
+C:\Users\86185\Desktop\CXH\CXH.DAl\bin\Debug\CXH.Model.pdb
+C:\Users\86185\Desktop\CXH\CXH.DAl\obj\Debug\CXH.DAL.csprojResolveAssemblyReference.cache
+C:\Users\86185\Desktop\CXH\CXH.DAl\obj\Debug\CXH.DAl.dll
+C:\Users\86185\Desktop\CXH\CXH.DAl\obj\Debug\CXH.DAl.pdb
+D:\35唐富慷\CXH\CXH.DAl\bin\Debug\CXH.DAl.dll
+D:\35唐富慷\CXH\CXH.DAl\bin\Debug\CXH.DAl.pdb
+D:\35唐富慷\CXH\CXH.DAl\bin\Debug\CXH.Model.dll
+D:\35唐富慷\CXH\CXH.DAl\bin\Debug\CXH.Model.pdb
+D:\35唐富慷\CXH\CXH.DAl\obj\Debug\CXH.DAL.csprojResolveAssemblyReference.cache
+D:\35唐富慷\CXH\CXH.DAl\obj\Debug\CXH.DAl.dll
+D:\35唐富慷\CXH\CXH.DAl\obj\Debug\CXH.DAl.pdb

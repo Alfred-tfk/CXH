@@ -1,0 +1,10 @@
+C:\Users\86185\Desktop\CXH\CXH.Model\bin\Debug\CXH.Model.dll
+C:\Users\86185\Desktop\CXH\CXH.Model\bin\Debug\CXH.Model.pdb
+C:\Users\86185\Desktop\CXH\CXH.Model\obj\Debug\CXH.Model.csprojResolveAssemblyReference.cache
+C:\Users\86185\Desktop\CXH\CXH.Model\obj\Debug\CXH.Model.dll
+C:\Users\86185\Desktop\CXH\CXH.Model\obj\Debug\CXH.Model.pdb
+D:\35唐富慷\CXH\CXH.Model\bin\Debug\CXH.Model.dll
+D:\35唐富慷\CXH\CXH.Model\bin\Debug\CXH.Model.pdb
+D:\35唐富慷\CXH\CXH.Model\obj\Debug\CXH.Model.csprojResolveAssemblyReference.cache
+D:\35唐富慷\CXH\CXH.Model\obj\Debug\CXH.Model.dll
+D:\35唐富慷\CXH\CXH.Model\obj\Debug\CXH.Model.pdb
